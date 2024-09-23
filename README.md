@@ -1,2 +1,2 @@
 # Automatic-street-light-using-IOT
-Automatic street light system using IoT to detect sunlight intensity with an LDR sensor. Based on the data, the street lights turn ON/OFF and adjust brightness as needed, saving energy. The system is controlled by an Arduino UNO, optimizing power consumption based on real-time light conditions.
+Automatic street light system using IoT to detect sunlight intensity with an LDR sensor. Based on the data, the street lights turn ON/OFF and adjust brightness as needed, saving energy. The system is controlled by an Arduino UNO, optimizing power consumption based on real-time light conditions. Automatic street light code runs on Arduino IDE. The Main.ino file contains the code to be uploaded and executed on the Arduino UNO.
